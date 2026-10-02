@@ -1,0 +1,42 @@
+# Raw sequencing data
+raw_fastq/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+alignment/*.bam
+alignment/*.bai
+alignment/*.sam
+
+# Reference genome / annotation
+reference/*.fa
+reference/*.fna
+reference/*.fa.gz
+reference/*.fna.gz
+annotation/*.gff
+annotation/*.gff.gz
+
+# Temporary / intermediate files
+*.tmp
+*.bak
+*.log
+
+# Windows temporary files
+~/
+Thumbs.db
+Desktop.ini
+
+# R files / session data
+.Rhistory
+.RData
+.Ruserdata
+
+# Quality-control reports
+qc_before/
+qc_after/
+
+# Bowtie2 reference index files
+reference/*.bt2
+reference/*.bt2l

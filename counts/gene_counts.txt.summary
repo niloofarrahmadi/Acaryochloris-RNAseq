@@ -1,0 +1,15 @@
+Status	alignment/DRR194261.sorted.bam	alignment/DRR194262.sorted.bam	alignment/DRR194263.sorted.bam	alignment/DRR194264.sorted.bam	alignment/DRR194265.sorted.bam	alignment/DRR194266.sorted.bam
+Assigned	4495217	4698773	9596844	9453177	3423114	3037924
+Unassigned_Unmapped	162664	149727	2460125	3066780	1204087	1431236
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	250849	233561	351493	344376	177765	181431
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	111322	109701	463907	326135	110190	100608
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	172127	230403	732203	914534	141802	191668
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	444279	455271	463221	556769	228397	252662
